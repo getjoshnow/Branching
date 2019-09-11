@@ -7,3 +7,8 @@
 current directory
 
 8 ' git commit -m "message"'
+
+
+### Basic Branching
+
+*'git branch branchName' - creates a new branch ' branchname'
