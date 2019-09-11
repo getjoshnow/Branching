@@ -11,5 +11,6 @@ current directory
 
 ### Basic Branching
 
-*'git branch branchName' - creates a new branch ' branchname'
+*'git branch branchName' - creates a new branch ' BranchingName'
 * 'git checkout branchName' -
+*'git checkout branchName'  - Retrieve branch content into working directory.
