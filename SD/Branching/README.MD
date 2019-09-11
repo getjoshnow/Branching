@@ -12,3 +12,4 @@ current directory
 ### Basic Branching
 
 *'git branch branchName' - creates a new branch ' branchname'
+* 'git checkout branchName' -
